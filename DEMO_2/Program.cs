@@ -1,12 +1,13 @@
 ﻿// Задача 2: Напишите программу, которая вход принимает два числа и выдает, какое число большее, а какое-то меньшее.
 
-/*  а = 5; б = 7 -> макс = 7
-    а = 2 б = 10 -> макс = 10
-    а = -9 б = -3 -> макс = -3
+/*  а = 5; б = 7 -> max = 7
+    а = 2; б = 10 -> max = 10
+    а = -9; б = -3 -> max = -3
 */
 
-интервал макс = 0;
-интервал мин = 0;
+
+int max = 0;
+int min = 0;
 
 Console.Write("Введите первое число: ");
 int firstNumber = Convert.ToInt32(Console.ReadLine());
@@ -14,15 +15,15 @@ int firstNumber = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-если (первое число > второе число)
+if (firstNumber > secondNumber)
 {
-    макс = первое число;
-    мин = число секунд;
+    max = firstNumber;
+    min = secondNumber;
 }
-еще
+else
 {
-    макс = второе число;
-    мин = первое число;
+    max = secondNumber;
+    min = firstNumber;
 }
 Console.WriteLine("max = " + max + " и " + "min = " + min);
 

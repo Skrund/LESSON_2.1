@@ -1,0 +1,15 @@
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\DEMO_2.csproj.AssemblyReference.cache
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\DEMO_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\DEMO_2.AssemblyInfoInputs.cache
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\DEMO_2.AssemblyInfo.cs
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\DEMO_2.csproj.CoreCompileInputs.cache
+E:\SEMINAR_2.1\DEMO_2\bin\Debug\net6.0\DEMO_2.exe
+E:\SEMINAR_2.1\DEMO_2\bin\Debug\net6.0\DEMO_2.deps.json
+E:\SEMINAR_2.1\DEMO_2\bin\Debug\net6.0\DEMO_2.runtimeconfig.json
+E:\SEMINAR_2.1\DEMO_2\bin\Debug\net6.0\DEMO_2.dll
+E:\SEMINAR_2.1\DEMO_2\bin\Debug\net6.0\DEMO_2.pdb
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\DEMO_2.dll
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\refint\DEMO_2.dll
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\DEMO_2.pdb
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\DEMO_2.genruntimeconfig.cache
+E:\SEMINAR_2.1\DEMO_2\obj\Debug\net6.0\ref\DEMO_2.dll
