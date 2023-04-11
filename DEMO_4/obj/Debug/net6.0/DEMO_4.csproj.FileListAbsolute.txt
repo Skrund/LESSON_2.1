@@ -1,0 +1,15 @@
+E:\SEMINAR_2.1\DEMO_4\bin\Debug\net6.0\DEMO_4.exe
+E:\SEMINAR_2.1\DEMO_4\bin\Debug\net6.0\DEMO_4.deps.json
+E:\SEMINAR_2.1\DEMO_4\bin\Debug\net6.0\DEMO_4.runtimeconfig.json
+E:\SEMINAR_2.1\DEMO_4\bin\Debug\net6.0\DEMO_4.dll
+E:\SEMINAR_2.1\DEMO_4\bin\Debug\net6.0\DEMO_4.pdb
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\DEMO_4.csproj.AssemblyReference.cache
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\DEMO_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\DEMO_4.AssemblyInfoInputs.cache
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\DEMO_4.AssemblyInfo.cs
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\DEMO_4.csproj.CoreCompileInputs.cache
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\DEMO_4.dll
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\refint\DEMO_4.dll
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\DEMO_4.pdb
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\DEMO_4.genruntimeconfig.cache
+E:\SEMINAR_2.1\DEMO_4\obj\Debug\net6.0\ref\DEMO_4.dll
